@@ -20,7 +20,7 @@ script4.sh → Log File Analyzer
 script5.sh → Open Source Manifesto Generator
 How to Run the Scripts
 Step 1: Clone the repository
-git clone https://github.com/nooblyxmad/oss-audit-24BCY10077-/
+
 
 Step 2: Navigate to directory
 cd oss-audit-24BCY10077-
